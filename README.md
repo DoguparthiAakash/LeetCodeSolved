@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
