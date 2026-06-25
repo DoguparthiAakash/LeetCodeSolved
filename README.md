@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0051-n-queens](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0051-n-queens/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,10 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
