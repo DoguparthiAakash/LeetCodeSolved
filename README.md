@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0050-powx-n/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -53,5 +54,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
