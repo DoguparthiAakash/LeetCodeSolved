@@ -25,10 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0242-valid-anagram/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0242-valid-anagram/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -56,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0206-reverse-linked-list/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
