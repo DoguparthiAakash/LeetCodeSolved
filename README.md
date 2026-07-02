@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0067-add-binary/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0242-valid-anagram/) | Easy |
 ## Hash Table
@@ -94,4 +96,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0043-multiply-strings/) | Medium |
+| [0067-add-binary](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
