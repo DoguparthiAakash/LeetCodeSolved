@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0051-n-queens/) | Hard |
+| [0066-plus-one](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0066-plus-one/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Math
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0066-plus-one/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
