@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0066-plus-one/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1260-shift-2d-grid](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1260-shift-2d-grid/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -99,8 +100,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0067-add-binary/) | Easy |
+| [1260-shift-2d-grid](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1260-shift-2d-grid/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/0067-add-binary/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/DoguparthiAakash/LeetCodeSolved/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
